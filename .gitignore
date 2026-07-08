@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# results / generated output
+results/
+
+# jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS / editor junk
+.DS_Store
+.vscode/
